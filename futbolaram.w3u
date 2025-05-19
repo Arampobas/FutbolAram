@@ -7,1002 +7,906 @@
     "info": "",
     "groups": [
         {
-            "name": "XUPIMARCSPORTS",
+            "name": "Sin Categoría",
             "image": "https://i.imgur.com/5rjqSPj.png",
             "stations": [
                 {
                     "name": "ARA ESTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://1a9085a7b8aa402f317fb86f7243f3736770b325"
-                }
-            ]
-        },
-        {
-            "name": "M+ LIGA",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TVBAR",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TVBAR",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
                 },
                 {
-                    "name": "",
+                    "name": "M+ LIGA UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
                 },
                 {
-                    "name": "",
+                    "name": "M+ LIGA UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
                 },
                 {
-                    "name": "",
+                    "name": "M+ LIGA UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TV2 M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TV2 M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TV2 M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TV3 M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TV3 M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA TV4 M+",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
-                }
-            ]
-        },
-        {
-            "name": "DAZN LIGA",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://97ba38d47680954be40e48bd8f43e17222fefecb"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN LA LIGA 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fb51ef5294e99767811a3fa95a1933fb864e9ff3"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN EVENTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN EVENTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN EVENTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4b048bcfaed7daec454e88f0e29b56756300447d"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN BUNDESLIGA 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN BUNDESLIGA 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN BUNDESLIGA 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564"
-                }
-            ]
-        },
-        {
-            "name": "M+ LIGA HYPERMOTION",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "LA LIGA HIPERMOTION",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA HIPERMOTION",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://121f719ebb94193c6086ef92865cf9b197750980"
                 },
                 {
-                    "name": "",
+                    "name": "LA LIGA HIPERMOTION",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3"
                 },
                 {
-                    "name": "",
+                    "name": "HIPERMOTION 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d"
                 },
                 {
-                    "name": "",
+                    "name": "HIPERMOTION 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a"
                 },
                 {
-                    "name": "",
+                    "name": "HIPERMOTION 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea"
                 },
                 {
-                    "name": "",
+                    "name": "HIPERMOTION 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://0829094f216f639b2ac2d00b6cccce6585de6c7b"
                 },
                 {
-                    "name": "",
+                    "name": "HIPER 5",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://061f42fcaa7632fb0a889272a731036d033cddf5"
-                }
-            ]
-        },
-        {
-            "name": "M+ CHAMPIONS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://a9025d4e168764248d33129c30940502cea0e1c2"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES UHD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://15127320406cf6a072c4f485f31c841d7d3e62f3"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://f1219582a3059e7fff2db22e69475c45cbc84356"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 5",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 5",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d2cf12b65c8a540a50bd74c3db1ce59ae8d05623"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 6",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://976983697790ab8a07b764b08843529d38bc6444"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 7",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://83c02982581a536d1321e38a77dc0c520b1cb842"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 8",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 9",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://80abcb38122c25fefb4dffeb57086998447ff49b"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 10",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://0103373118989085dd0d02667c629ee36d462cb1"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 11",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6e12a5849a4edea248ed9c8689e58bd66fc9f8fa"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 12",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://130d37f9a68bd8f29f0d636dcde522a1e91d1cb7"
                 },
                 {
-                    "name": "",
+                    "name": "CAMPEONES 13",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://9c246c5e6a153ba2b765e4b84f4d50e0836b3556"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 14",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://773ef9e2d2feb4f80ef558b253c72fda8d8e53cf"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 15",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://47ce8fe15adfcf4e1749b0c0dee1fc79a3d5ca6d"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 16",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://348cc65d5cbd5a77da0fe006ce97eff6ad72b9da"
                 },
                 {
-                    "name": "",
+                    "name": "campeones 17",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c"
-                }
-            ]
-        },
-        {
-            "name": "1RFEF",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "RFEF 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d"
                 },
                 {
-                    "name": "",
+                    "name": "RFEF 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8677d339ecddd75165c0015025f598b6215974cf"
-                }
-            ]
-        },
-        {
-            "name": "FORMULA 1",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4b1066552d40ac452ab408c97fc3215699a52c4f"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
                 },
                 {
-                    "name": "",
+                    "name": "ALONSO ASTON MARTIN",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://a97ccf39516515e7812d5c04dcacdf748f3545e8"
                 },
                 {
-                    "name": "",
+                    "name": "CARLOS SAINZ F1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ddc3b1c8297d57d8096ba20edc1da41eb149a167"
-                }
-            ]
-        },
-        {
-            "name": "DAZN - MOTOGP - LIGAF",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "DAZN I BAR",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN I BAR",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://448a647ba8cd8885588572d609ce02b961238121"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 2 BAR",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
                 },
                 {
-                    "name": "",
+                    "name": "ONE BOARD 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://2e764a7ad94bcb4e67e82369b7aa982c6b2751b4"
                 },
                 {
-                    "name": "",
+                    "name": "ONE BOARD 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b926e6a6ab1d5dc855ce2d3dbeb5e97b9d42b304"
                 },
                 {
-                    "name": "",
+                    "name": "ONE BOAARD 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://9798df57203105309f47b1aa81b6badf00fd0f35"
                 },
                 {
-                    "name": "",
+                    "name": "ONE BOARD 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://de3ae87e72054cf3ce75268753845c97b931ad58"
-                }
-            ]
-        },
-        {
-            "name": "DAZN EVENTOS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "DAZN EVENTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN EVENTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267"
                 },
                 {
-                    "name": "",
+                    "name": "DAZN EVENTOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4b048bcfaed7daec454e88f0e29b56756300447d"
-                }
-            ]
-        },
-        {
-            "name": "M+VAMOS -M+ELLAS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
                 },
                 {
-                    "name": "",
+                    "name": "ELLAS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d8c2ed470e847154a88f011137cc206319f6bed5"
                 },
                 {
-                    "name": "",
+                    "name": "ELLAS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216"
                 },
                 {
-                    "name": "",
+                    "name": "VAMOS 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368"
-                }
-            ]
-        },
-        {
-            "name": "EUROSPORT - FORMULA E",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "EUROSPORT 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
                 },
                 {
-                    "name": "",
+                    "name": "EUROSPORT 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
                 },
                 {
-                    "name": "",
+                    "name": "EUROSPORT 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
                 },
                 {
-                    "name": "",
+                    "name": "EUROSPORT 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4"
                 },
                 {
-                    "name": "",
+                    "name": "EUROSPORT 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
                 },
                 {
-                    "name": "",
+                    "name": "EUROSPORT 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
-                }
-            ]
-        },
-        {
-            "name": "MOTOR",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "MOTORVISION",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404"
                 },
                 {
-                    "name": "",
+                    "name": "AUTOMOTORSPORT",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://610993aea3a2bfd509594334b7461ce96900f54c"
                 },
                 {
-                    "name": "",
+                    "name": "MOTORS TV",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98"
                 },
                 {
-                    "name": "",
+                    "name": "CANAL MOTOR",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://35e17cc84abc5e393b5acd688536a9681105f2d5"
                 },
                 {
-                    "name": "",
+                    "name": "RETROVISION",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3"
                 },
                 {
-                    "name": "",
+                    "name": "WINTER SERIES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://2f3a139d7a2ca1f305ae8cd67444b961d468a9d4"
-                }
-            ]
-        },
-        {
-            "name": "DEPORTES M+",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://67a33c3f74956eed14b9b400523462fe362e0e66"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 4",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 5",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 5",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 6",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://cc5782d37ae6b6e0bab396dd64074982d0879046"
                 },
                 {
-                    "name": "",
+                    "name": "DEPORTES 7",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://070f82d6443a52962d6a2ed9954c979b29404932"
-                }
-            ]
-        },
-        {
-            "name": "M+ GOLF",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "GOLF",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
                 },
                 {
-                    "name": "",
+                    "name": "GOLF",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://872608e734992db636eb79426802cd08f4029afb"
                 },
                 {
-                    "name": "",
+                    "name": "GOLF 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7"
-                }
-            ]
-        },
-        {
-            "name": "UFC",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "UFC FIGHT PASS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139"
                 },
                 {
-                    "name": "",
+                    "name": "EVENTO UFC",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://9efe41de7f5dcafc9395591feb959832e09683ff"
-                }
-            ]
-        },
-        {
-            "name": "NBA",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "NBA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8a0a371e2cda52d162c960400e9f55fffddfd46d"
                 },
                 {
-                    "name": "",
+                    "name": "NBA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7acefb808a6c67d95e977b452d53070947bd072b"
-                }
-            ]
-        },
-        {
-            "name": "OTROS CANALES",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
+                },
                 {
-                    "name": "",
+                    "name": "TDP",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
                 },
                 {
-                    "name": "",
+                    "name": "GOL PLAY",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
                 },
                 {
-                    "name": "",
+                    "name": "MOVISTAR +",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
                 },
                 {
-                    "name": "",
+                    "name": "M ACCION",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
                 },
                 {
-                    "name": "",
+                    "name": "A3 SERIES",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
                 },
                 {
-                    "name": "",
+                    "name": "M+ CLASICOS",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c"
                 },
                 {
-                    "name": "",
+                    "name": "COMEDIA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://4879825ab2491980e93ea2d8c4d02e095eacf670"
                 },
                 {
-                    "name": "",
+                    "name": "FOX",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7a9b22bee11d26b3f5bbd52e0230e19706f593eb"
                 },
                 {
-                    "name": "",
+                    "name": "HOLLYWOOD",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://ebc2e767633cf272abf749a8884751f1f177c8b3"
                 },
                 {
-                    "name": "",
+                    "name": "LA 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
                 },
                 {
-                    "name": "",
+                    "name": "LA 1",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://7225e4b281975f1a36d61dfd9724b669d7747b70"
                 },
                 {
-                    "name": "",
+                    "name": "LA 2",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
                 },
                 {
-                    "name": "",
+                    "name": "AANTENA 3",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
                 },
                 {
-                    "name": "",
+                    "name": "CUATRO",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
                 },
                 {
-                    "name": "",
+                    "name": "TELE CINCO",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
                 },
                 {
-                    "name": "",
+                    "name": "LA SEXTA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
                 },
                 {
-                    "name": "",
+                    "name": "MEGA",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://5c02eda19460d039aee54b6cdfd89ec5b0b9e1f2"
                 },
                 {
-                    "name": "",
+                    "name": "DISCOVERY CHANNEL",
                     "image": "https://i.imgur.com/5rjqSPj.png",
                     "url": "acestream://cd485af78cf86934d77cf867f73fe7f5cd32981a"
                 }
