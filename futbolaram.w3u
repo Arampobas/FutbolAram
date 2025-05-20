@@ -5,18 +5,7 @@
     "image": "https://i.imgur.com/5rjqSPj.png",
     "contact": "",
     "info": "",
-    "groups": [
-        {
-            "name": "XUPIMARCSPORTS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
-            "stations": [
-                {
-                    "name": "ARA ESTOS",
-                    "image": "https://images.freeimages.com/vhq/images/previews/161/down-arrow-clip-art-56255.png",
-                    "url": "acestream://1a9085a7b8aa402f317fb86f7243f3736770b325"
-                }
-            ]
-        },
+    "groups": 
         {
             "name": "M+ LIGA",
             "image": "https://i.imgur.com/5rjqSPj.png",
