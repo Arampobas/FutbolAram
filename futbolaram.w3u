@@ -1,5 +1,5 @@
 {
-    "name": "Futfree",
+    "name": "FURBO",
     "author": "Param1",
     "url": "",
     "image": "https://i.imgur.com/MShaJyb.png",
@@ -8,7 +8,7 @@
     "groups": [
         {
             "name": "M+ LIGA",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -94,7 +94,7 @@
         },
         {
             "name": "DAZN LIGA",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -165,7 +165,7 @@
         },
         {
             "name": "M+ LIGA HYPERMOTION",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -211,7 +211,7 @@
         },
         {
             "name": "M+ CHAMPIONS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -387,7 +387,7 @@
         },
         {
             "name": "1RFEF",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -403,7 +403,7 @@
         },
         {
             "name": "FORMULA 1",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -464,7 +464,7 @@
         },
         {
             "name": "DAZN - MOTOGP - LIGAF",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -595,7 +595,7 @@
         },
         {
             "name": "DAZN EVENTOS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -616,7 +616,7 @@
         },
         {
             "name": "M+VAMOS -M+ELLAS",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -682,7 +682,7 @@
         },
         {
             "name": "EUROSPORT - FORMULA E",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
@@ -718,7 +718,7 @@
         },
         {
             "name": "MOTOR",
-            "image": "https://i.imgur.com/5rjqSPj.png",
+            "image": "https://i.imgur.com/MShaJyb.png",
             "stations": [
                 {
                     "name": "",
